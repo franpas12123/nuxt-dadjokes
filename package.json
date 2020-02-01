@@ -1,0 +1,20 @@
+{
+  "name": "dadjokes",
+  "version": "1.0.0",
+  "description": "A Nuxt project which generates corny jokes based on TraversyMedia&#39;s Nuxt JS Crash Course",
+  "author": "Frances D Pasulohan",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "nuxt": "^2.0.0",
+    "@nuxtjs/axios": "^5.3.6"
+  },
+  "devDependencies": {
+    "@nuxtjs/vuetify": "^1.0.0"
+  }
+}
